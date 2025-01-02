@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";  // Host name
 $username = "root";         // Database username
-$password = "";             // Database password
+$password = "password";             // Database password
 $dbname = "task_management"; // Database name
 
 // Create connection
